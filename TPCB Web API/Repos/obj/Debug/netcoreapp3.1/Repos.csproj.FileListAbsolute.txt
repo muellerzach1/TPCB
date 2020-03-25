@@ -1,0 +1,8 @@
+C:\Revature\TPCB\TPCB Web API\Repos\bin\Debug\netcoreapp3.1\Repos.deps.json
+C:\Revature\TPCB\TPCB Web API\Repos\bin\Debug\netcoreapp3.1\Repos.dll
+C:\Revature\TPCB\TPCB Web API\Repos\bin\Debug\netcoreapp3.1\Repos.pdb
+C:\Revature\TPCB\TPCB Web API\Repos\obj\Debug\netcoreapp3.1\Repos.csprojAssemblyReference.cache
+C:\Revature\TPCB\TPCB Web API\Repos\obj\Debug\netcoreapp3.1\Repos.AssemblyInfoInputs.cache
+C:\Revature\TPCB\TPCB Web API\Repos\obj\Debug\netcoreapp3.1\Repos.AssemblyInfo.cs
+C:\Revature\TPCB\TPCB Web API\Repos\obj\Debug\netcoreapp3.1\Repos.dll
+C:\Revature\TPCB\TPCB Web API\Repos\obj\Debug\netcoreapp3.1\Repos.pdb

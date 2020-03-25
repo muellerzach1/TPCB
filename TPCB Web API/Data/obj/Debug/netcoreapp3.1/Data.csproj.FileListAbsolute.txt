@@ -1,0 +1,13 @@
+C:\Revature\TPCB\TPCB Web API\Data\bin\Debug\netcoreapp3.1\Repos.dll
+C:\Revature\TPCB\TPCB Web API\Data\obj\Debug\netcoreapp3.1\Data.csprojAssemblyReference.cache
+C:\Revature\TPCB\TPCB Web API\Data\obj\Debug\netcoreapp3.1\Data.AssemblyInfoInputs.cache
+C:\Revature\TPCB\TPCB Web API\Data\obj\Debug\netcoreapp3.1\Data.AssemblyInfo.cs
+C:\Revature\TPCB\TPCB Web API\Data\bin\Debug\netcoreapp3.1\Data.deps.json
+C:\Revature\TPCB\TPCB Web API\Data\bin\Debug\netcoreapp3.1\Data.runtimeconfig.json
+C:\Revature\TPCB\TPCB Web API\Data\bin\Debug\netcoreapp3.1\Data.runtimeconfig.dev.json
+C:\Revature\TPCB\TPCB Web API\Data\bin\Debug\netcoreapp3.1\Data.dll
+C:\Revature\TPCB\TPCB Web API\Data\bin\Debug\netcoreapp3.1\Data.pdb
+C:\Revature\TPCB\TPCB Web API\Data\bin\Debug\netcoreapp3.1\Repos.pdb
+C:\Revature\TPCB\TPCB Web API\Data\obj\Debug\netcoreapp3.1\Data.csproj.CopyComplete
+C:\Revature\TPCB\TPCB Web API\Data\obj\Debug\netcoreapp3.1\Data.dll
+C:\Revature\TPCB\TPCB Web API\Data\obj\Debug\netcoreapp3.1\Data.pdb

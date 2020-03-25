@@ -1,0 +1,54 @@
+C:\Revature\TPCB\TPCB Web API\TPCB Web API\bin\Debug\netcoreapp3.1\appsettings.Development.json
+C:\Revature\TPCB\TPCB Web API\TPCB Web API\bin\Debug\netcoreapp3.1\appsettings.json
+C:\Revature\TPCB\TPCB Web API\TPCB Web API\bin\Debug\netcoreapp3.1\Properties\launchSettings.json
+C:\Revature\TPCB\TPCB Web API\TPCB Web API\bin\Debug\netcoreapp3.1\TPCB Web API.exe
+C:\Revature\TPCB\TPCB Web API\TPCB Web API\bin\Debug\netcoreapp3.1\TPCB Web API.deps.json
+C:\Revature\TPCB\TPCB Web API\TPCB Web API\bin\Debug\netcoreapp3.1\TPCB Web API.runtimeconfig.json
+C:\Revature\TPCB\TPCB Web API\TPCB Web API\bin\Debug\netcoreapp3.1\TPCB Web API.runtimeconfig.dev.json
+C:\Revature\TPCB\TPCB Web API\TPCB Web API\bin\Debug\netcoreapp3.1\TPCB Web API.dll
+C:\Revature\TPCB\TPCB Web API\TPCB Web API\bin\Debug\netcoreapp3.1\TPCB Web API.pdb
+C:\Revature\TPCB\TPCB Web API\TPCB Web API\bin\Debug\netcoreapp3.1\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Revature\TPCB\TPCB Web API\TPCB Web API\bin\Debug\netcoreapp3.1\Microsoft.Bcl.HashCode.dll
+C:\Revature\TPCB\TPCB Web API\TPCB Web API\bin\Debug\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Revature\TPCB\TPCB Web API\TPCB Web API\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.dll
+C:\Revature\TPCB\TPCB Web API\TPCB Web API\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Revature\TPCB\TPCB Web API\TPCB Web API\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Revature\TPCB\TPCB Web API\TPCB Web API\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.SqlServer.dll
+C:\Revature\TPCB\TPCB Web API\TPCB Web API\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Caching.Abstractions.dll
+C:\Revature\TPCB\TPCB Web API\TPCB Web API\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Caching.Memory.dll
+C:\Revature\TPCB\TPCB Web API\TPCB Web API\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.dll
+C:\Revature\TPCB\TPCB Web API\TPCB Web API\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.Abstractions.dll
+C:\Revature\TPCB\TPCB Web API\TPCB Web API\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.Binder.dll
+C:\Revature\TPCB\TPCB Web API\TPCB Web API\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyInjection.dll
+C:\Revature\TPCB\TPCB Web API\TPCB Web API\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\Revature\TPCB\TPCB Web API\TPCB Web API\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Logging.dll
+C:\Revature\TPCB\TPCB Web API\TPCB Web API\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Logging.Abstractions.dll
+C:\Revature\TPCB\TPCB Web API\TPCB Web API\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Options.dll
+C:\Revature\TPCB\TPCB Web API\TPCB Web API\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Primitives.dll
+C:\Revature\TPCB\TPCB Web API\TPCB Web API\bin\Debug\netcoreapp3.1\Microsoft.Identity.Client.dll
+C:\Revature\TPCB\TPCB Web API\TPCB Web API\bin\Debug\netcoreapp3.1\System.Configuration.ConfigurationManager.dll
+C:\Revature\TPCB\TPCB Web API\TPCB Web API\bin\Debug\netcoreapp3.1\System.Runtime.Caching.dll
+C:\Revature\TPCB\TPCB Web API\TPCB Web API\bin\Debug\netcoreapp3.1\System.Security.Cryptography.ProtectedData.dll
+C:\Revature\TPCB\TPCB Web API\TPCB Web API\bin\Debug\netcoreapp3.1\runtimes\unix\lib\netcoreapp2.1\Microsoft.Data.SqlClient.dll
+C:\Revature\TPCB\TPCB Web API\TPCB Web API\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp2.1\Microsoft.Data.SqlClient.dll
+C:\Revature\TPCB\TPCB Web API\TPCB Web API\bin\Debug\netcoreapp3.1\runtimes\win-arm64\native\sni.dll
+C:\Revature\TPCB\TPCB Web API\TPCB Web API\bin\Debug\netcoreapp3.1\runtimes\win-x64\native\sni.dll
+C:\Revature\TPCB\TPCB Web API\TPCB Web API\bin\Debug\netcoreapp3.1\runtimes\win-x86\native\sni.dll
+C:\Revature\TPCB\TPCB Web API\TPCB Web API\bin\Debug\netcoreapp3.1\runtimes\unix\lib\netcoreapp2.0\System.Runtime.Caching.dll
+C:\Revature\TPCB\TPCB Web API\TPCB Web API\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp2.0\System.Runtime.Caching.dll
+C:\Revature\TPCB\TPCB Web API\TPCB Web API\bin\Debug\netcoreapp3.1\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+C:\Revature\TPCB\TPCB Web API\TPCB Web API\bin\Debug\netcoreapp3.1\Data.dll
+C:\Revature\TPCB\TPCB Web API\TPCB Web API\bin\Debug\netcoreapp3.1\Repos.dll
+C:\Revature\TPCB\TPCB Web API\TPCB Web API\bin\Debug\netcoreapp3.1\Data.pdb
+C:\Revature\TPCB\TPCB Web API\TPCB Web API\bin\Debug\netcoreapp3.1\Repos.pdb
+C:\Revature\TPCB\TPCB Web API\TPCB Web API\obj\Debug\netcoreapp3.1\TPCB Web API.csprojAssemblyReference.cache
+C:\Revature\TPCB\TPCB Web API\TPCB Web API\obj\Debug\netcoreapp3.1\staticwebassets\TPCB Web API.StaticWebAssets.Manifest.cache
+C:\Revature\TPCB\TPCB Web API\TPCB Web API\obj\Debug\netcoreapp3.1\staticwebassets\TPCB Web API.StaticWebAssets.xml
+C:\Revature\TPCB\TPCB Web API\TPCB Web API\obj\Debug\netcoreapp3.1\TPCB Web API.AssemblyInfoInputs.cache
+C:\Revature\TPCB\TPCB Web API\TPCB Web API\obj\Debug\netcoreapp3.1\TPCB Web API.AssemblyInfo.cs
+C:\Revature\TPCB\TPCB Web API\TPCB Web API\obj\Debug\netcoreapp3.1\TPCB Web API.RazorTargetAssemblyInfo.cache
+C:\Revature\TPCB\TPCB Web API\TPCB Web API\obj\Debug\netcoreapp3.1\TPCB Web API.csproj.CopyComplete
+C:\Revature\TPCB\TPCB Web API\TPCB Web API\obj\Debug\netcoreapp3.1\TPCB Web API.dll
+C:\Revature\TPCB\TPCB Web API\TPCB Web API\obj\Debug\netcoreapp3.1\TPCB Web API.pdb
+C:\Revature\TPCB\TPCB Web API\TPCB Web API\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Design.dll
+C:\Revature\TPCB\TPCB Web API\TPCB Web API\obj\Debug\netcoreapp3.1\TPCB Web API.MvcApplicationPartsAssemblyInfo.cache
