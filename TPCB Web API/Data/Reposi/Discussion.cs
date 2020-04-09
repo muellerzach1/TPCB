@@ -46,10 +46,10 @@ namespace Data.Reposi
             throw new NotImplementedException();
         }
 
-        public void RemoveDiscussion(Discussions comment)
+        public void RemoveDiscussion(int id)
         {
-            var com = TPC.Discussion.FirstOrDefault(e => e.ComDate == comment.ComDate);
-            if (com.ComDate == comment.ComDate )
+            var com = TPC.Discussion.FirstOrDefault(e => e.CommentId == id);
+            if (com.CommentId == id )
             {
                 TPC.Remove(com);
                 TPC.SaveChanges();

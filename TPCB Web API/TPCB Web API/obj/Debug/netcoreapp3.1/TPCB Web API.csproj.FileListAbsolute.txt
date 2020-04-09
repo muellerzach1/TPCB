@@ -51,4 +51,9 @@ C:\Revature\TPCB\TPCB Web API\TPCB Web API\obj\Debug\netcoreapp3.1\TPCB Web API.
 C:\Revature\TPCB\TPCB Web API\TPCB Web API\obj\Debug\netcoreapp3.1\TPCB Web API.dll
 C:\Revature\TPCB\TPCB Web API\TPCB Web API\obj\Debug\netcoreapp3.1\TPCB Web API.pdb
 C:\Revature\TPCB\TPCB Web API\TPCB Web API\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Design.dll
+C:\Revature\TPCB\TPCB Web API\TPCB Web API\bin\Debug\netcoreapp3.1\Microsoft.OpenApi.dll
+C:\Revature\TPCB\TPCB Web API\TPCB Web API\bin\Debug\netcoreapp3.1\Swashbuckle.AspNetCore.Swagger.dll
+C:\Revature\TPCB\TPCB Web API\TPCB Web API\bin\Debug\netcoreapp3.1\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Revature\TPCB\TPCB Web API\TPCB Web API\bin\Debug\netcoreapp3.1\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\Revature\TPCB\TPCB Web API\TPCB Web API\obj\Debug\netcoreapp3.1\TPCB Web API.MvcApplicationPartsAssemblyInfo.cs
 C:\Revature\TPCB\TPCB Web API\TPCB Web API\obj\Debug\netcoreapp3.1\TPCB Web API.MvcApplicationPartsAssemblyInfo.cache

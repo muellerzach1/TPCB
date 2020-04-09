@@ -9,6 +9,6 @@ namespace Repos.Abstractions
         IEnumerable<T> GetDiscussion();
         void AddDiscussion(T comment);
         void ModifyDiscussion(T comment);
-        void RemoveDiscussion(T comment);
+        void RemoveDiscussion(int id);
     }
 }

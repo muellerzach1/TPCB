@@ -31,9 +31,9 @@ namespace TPCB_Web_API.Controllers
         }
 
         [HttpPost]
-        public IActionResult PostComment([FromBody, Bind("CommentId, Username, Comment, ComDate")] Discussions dis)
+        public IActionResult PostComment([FromBody, Bind("Username, Comment, ComDate")] Discussions dis)
         {
-         
+
             _dis.AddDiscussion(dis);
             var getCom = _dis.GetDiscussion().FirstOrDefault(e => e.CommentId == dis.CommentId);
             if (getCom != null)
@@ -41,9 +41,18 @@ namespace TPCB_Web_API.Controllers
             else
                 return NotFound();
         }
-        public IActionResult Index()
+
+        [HttpDelete("{dis}")]
+        public IActionResult DeleteComment(int dis) 
         {
-            return View();
+            if (_dis.GetDiscussion().Any(x => x.CommentId == dis))
+            //   if (_dis.GetDiscussion().FirstOrDefault(x => x.TagId == tagId))
+            {
+                _dis.RemoveDiscussion(dis);
+                return NoContent();
+            }
+            // not found (404)
+            return NotFound();
         }
     }
 }

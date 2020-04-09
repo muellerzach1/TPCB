@@ -13,7 +13,15 @@ namespace TPCB_Web_API
     {
         public static void Main(string[] args)
         {
+            
+            try 
+            { 
             CreateHostBuilder(args).Build().Run();
+            } 
+            catch (Exception e)
+            {
+                
+            }
         }
 
         public static IHostBuilder CreateHostBuilder(string[] args) =>

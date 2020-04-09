@@ -1,6 +1,41 @@
 <p>TP Crisis Boards</p>
-<textarea id="Join the Conversation: " rows="4" cols="50">
+Admins enter clearance:
+<input type="password" name="admincheck" [(ngModel)]="admincheck" placeholder="">
+<br />
+<br />
+<div *ngIf='admincheck == "howdoideleteotherpeoplescomments"'>
+  <input type="text" name="idpointer" [(ngModel)]="idpointer">
 
-</textarea>
+  <button (click)="deleteThisComment()">Delete by ID</button>
+
+</div>
+<br />
+
+<div style="width: 1000px; height: 400px; overflow-y: scroll;">
+  <ul class="list-group">
+    <li *ngFor='let com of allcomments' class="list-group-item">
+      <div *ngIf='admincheck == "howdoideleteotherpeoplescomments"'>
+        ID: {{com.commentId}}
+        <br />
+      </div>
+      Comment from: {{com.username}} <br /> Posted On: {{com.comDate}}<br /><br />{{com.comment}}
+    </li>
+  </ul>
+</div>
+
 <br>
-<input type="submit" value="Post Comment">
+  Join the Coronaversation (Limit 1000 characters)
+<br />
+<textarea [(ngModel)]="userdata.Comment" ng-maxlength="1000" required rows="10" cols="50"></textarea>
+<br>
+Current length: {{userdata.Comment.length}}
+<br />
+<br />
+  Enter a name, or remain anonymous
+<br />
+<div>
+  <input type="text" name="userdata.Username" [(ngModel)]="userdata.Username">
+</div>
+<br />
+<button (click)="postThisComment()">Post Comment</button>
+
